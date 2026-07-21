@@ -8,6 +8,7 @@ I used to ask AI to build things for me. My codebase would fall apart. I thought
 Now I build the right way. I design. AI implements. One piece at a time.
 
 🧰 Creator of [`think`](https://github.com/cashrl/think-skill)
+
 🎮 Building [Pipo](https://github.com/cashrl/PipoApp) — English game for my sisters (3 & 4)
 
 [![Instagram](https://img.shields.io/badge/-@cainayz-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cainayz)
