@@ -1,5 +1,5 @@
 
-### 👋 I'm Cainã
+### Hi I'm Cainã
 
 **17. Can't code. Building anyway.**
 
