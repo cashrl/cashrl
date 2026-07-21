@@ -3,7 +3,7 @@
 
 **17. Can't code. Building anyway.**
 
-I used to ask AI to build things for me. My codebase would fall apart. I thought it was my fault — then I realized: you don't need to code to design software. You just need to think in components, screens, and behavior.
+###**I used to ask AI to build things for me. My codebase would fall apart. I thought it was my fault — then I realized: you don't need to code to design software. You just need to think in components, screens, and behavior*.###
 
 Now I build the right way. I design. AI implements. One piece at a time.
 
